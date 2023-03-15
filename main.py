@@ -1,4 +1,4 @@
-print("Name: YESILKOY SERCAN ,  Student Number: 202103933, Major: Computer Engineering")
+trial
 
 name = "YESILKOY SERCAN"
 number = "202103933"
